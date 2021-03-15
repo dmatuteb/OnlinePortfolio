@@ -2,3 +2,22 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Daniel Matute's website"
 theme = "portfolio"
+
+[params]
+  indexPCImage = "/img/coding.png"
+  cv = "/pdf/DANIEL MATUTE_EN.pdf"
+  github = "https://github.com/dmatuteb"
+  linkedin = "https://www.linkedin.com/in/daniel-matute-burgos-0644471aa/"
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
+
+    [menu]
+      [[menu.main]]
+        identifier = "Home"
+        url = "/"
+        name = "Home"
+        weight = 1
