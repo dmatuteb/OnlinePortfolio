@@ -21,3 +21,17 @@ theme = "portfolio"
         url = "/"
         name = "Home"
         weight = 1
+
+  [languages.es]
+    contentDir = "content/es"
+    languageName = "Spanish"
+    weight = 2
+
+    [languages.es.menu]
+     [[languages.es.menu.main]]
+       url = "/"
+       name = "Inicio"
+       weight = 2
+
+    [languages.es.params]
+      cv = "/pdf/DANIEL MATUTE_ES.pdf"
