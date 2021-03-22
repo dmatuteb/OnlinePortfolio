@@ -4,7 +4,7 @@ title = "Daniel Matute's website"
 theme = "portfolio"
 
 [params]
-  indexPCImage = "/img/coding.png"
+  indexPCImage = "/img/me.jpg"
   cv = "/pdf/DANIEL MATUTE_EN.pdf"
   github = "https://github.com/dmatuteb"
   linkedin = "https://www.linkedin.com/in/daniel-matute-burgos-0644471aa/"
