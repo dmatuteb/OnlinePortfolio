@@ -5,7 +5,7 @@ theme = "portfolio"
 
 [params]
   indexPCImage = "/img/me.jpg"
-  cv = "/pdf/DANIEL MATUTE_EN.pdf"
+  cv = "/pdf/DANIEL_MATUTE_EN.pdf"
   github = "https://github.com/dmatuteb"
   linkedin = "https://www.linkedin.com/in/daniel-matute-burgos-0644471aa/"
 
@@ -34,4 +34,4 @@ theme = "portfolio"
        weight = 2
 
     [languages.es.params]
-      cv = "/pdf/DANIEL MATUTE_ES.pdf"
+      cv = "/pdf/DANIEL_MATUTE_ES.pdf"
