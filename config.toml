@@ -24,7 +24,7 @@ theme = "portfolio"
 
   [languages.es]
     contentDir = "content/es"
-    languageName = "Spanish"
+    languageName = "Español"
     weight = 2
 
     [languages.es.menu]
